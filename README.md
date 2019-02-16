@@ -1,1 +1,0 @@
-# PP-Game-About-Squares-Solver
