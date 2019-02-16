@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Vlad Marius-Cătălin 325CD
+Anul II Semestrul I
+Tema3 Programare Orientată pe Obiect
+-------------------------------------------------------------------------------
+
+Rulare tester din terminalul sistemului de operare:
+
+    > stack runhaskell GASTest
+
+Rularea unui test individual, din ghci, după încărcarea fișierului GASTest.hs:
+
+    > runTestPP <numeTest>
+
+Exemplu:
+
+    > runTestPP testShowLevels
